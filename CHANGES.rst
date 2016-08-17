@@ -10,7 +10,10 @@ Breaking changes:
 
 New features:
 
-- *add item here*
+- make thumb size in folder contents listing adjustable/supressable 
+  replace meaningless paper clip icon (fontello) with mime type icons
+  from mimetype registry
+  https://github.com/plone/Products.CMFPlone/issues/1734 [fgrcon]
 
 Bug fixes:
 
@@ -57,6 +60,7 @@ New:
 - Change default sort option in livesearch pattern.
   [rodfersou]
 
+  
 - Show expired label in folder contents for expired attributes
   [vangheem]
 

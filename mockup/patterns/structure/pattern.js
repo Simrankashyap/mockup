@@ -48,7 +48,6 @@ define([
 
       activeColumnsCookie: 'activeColumns',
 
-      iconSize: 'thumb',
 
       /*
         As the options operate on a merging basis per new attribute
@@ -68,6 +67,7 @@ define([
         'ExpirationDate',
         'exclude_from_nav',
         'getIcon',
+        'getMimeIcon',
         'getObjSize',
         'getURL',
         'id',
